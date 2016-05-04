@@ -1,0 +1,2 @@
+# Merlin
+First singleton pattern.
